@@ -1,7 +1,7 @@
 # 🔍 CVEs: 🎯
 
-> 该仓库用于记录我已分配/提交的 CVE 编号与基本信息。  
-> This repo tracks CVEs assigned/attributed to me (or my team).
+> 该仓库用于记录**我个人**提交/获得编号的 CVE
+> This repository is used to record my personal CVE submissions/numbers.
 
 | S.N | CVE Number | Vulnerability |
 |-----:|:---|:---|
