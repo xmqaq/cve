@@ -1,6 +1,6 @@
 # 🔍 CVEs: 🎯
 
-> 该仓库用于记录**我个人**提交/获得编号的 CVE
+> 该仓库用于记录我提交获得编号的 CVE
 
 > This repository is used to record my personal CVE submissions/numbers.
 
