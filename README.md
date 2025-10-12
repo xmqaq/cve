@@ -21,7 +21,6 @@
 
 ### 🗒️ Notes
 - All vulnerabilities were **responsibly disclosed** and officially assigned CVE IDs.  
-- Focus areas: SQL injection & web application security.  
 - This list will continue to grow as new CVEs are published.
 
 ---
