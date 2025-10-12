@@ -1,5 +1,5 @@
 ![CVE](https://img.shields.io/badge/CVE-Registered-blue)
-![Vulnerability](https://img.shields.io/badge/Type-SQLi-red)
+![Vulnerability](https://img.shields.io/badge/Type-WEB-red)
 ![Status](https://img.shields.io/badge/Update-Ongoing-brightgreen)
 
 # 🧩 CVE Achievements
