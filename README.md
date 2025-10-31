@@ -18,6 +18,7 @@
 | 5 | **CVE-2025-11668** | SQL Injection |
 | 6 | **CVE-2025-12238** | SQL Injection |
 | 7 | **CVE-2025-12252** | SQL Injection |
+| 8 | **CVE-2025-63622** | SQL Injection |
 ---
 
 ### 🗒️ Notes
